@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2ee1ff38.chunk.css",
+    "main.js": "./static/js/main.7048d8de.chunk.js",
+    "main.js.map": "./static/js/main.7048d8de.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.aa4e6ef4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.aa4e6ef4.js.map",
+    "static/css/2.f1718473.chunk.css": "./static/css/2.f1718473.chunk.css",
+    "static/js/2.ebe0807e.chunk.js": "./static/js/2.ebe0807e.chunk.js",
+    "static/js/2.ebe0807e.chunk.js.map": "./static/js/2.ebe0807e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a925ee4f4a44d9d12ddef2a91350dc7d.js": "./precache-manifest.a925ee4f4a44d9d12ddef2a91350dc7d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.f1718473.chunk.css.map": "./static/css/2.f1718473.chunk.css.map",
+    "static/css/main.2ee1ff38.chunk.css.map": "./static/css/main.2ee1ff38.chunk.css.map",
+    "static/js/2.ebe0807e.chunk.js.LICENSE.txt": "./static/js/2.ebe0807e.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "./static/media/nike.911bcc9c.jpg",
+    "static/media/Superstar_Shoes_White_EG4958_01_standard.jpg": "./static/media/Superstar_Shoes_White_EG4958_01_standard.2dc51952.jpg",
+    "static/media/font-awesome.css": "./static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/img02.jpg": "./static/media/img02.a5dbd7fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa4e6ef4.js",
+    "static/css/2.f1718473.chunk.css",
+    "static/js/2.ebe0807e.chunk.js",
+    "static/css/main.2ee1ff38.chunk.css",
+    "static/js/main.7048d8de.chunk.js"
+  ]
+}

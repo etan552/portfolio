@@ -1,0 +1,39 @@
+.form-item-group {
+	margin: 0 0 1rem 0;
+	display: block;
+	/* padding-left: 25%; */
+}
+
+.form-input {
+	display: block;
+	width: 100%;
+	border: 1px solid grey;
+	border-radius: 0.25rem;
+}
+
+.form-input:focus {
+	outline: 0;
+	box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.login-form {
+	width: 100%;
+	background-color: #fafced;
+	box-shadow: 0 0 20px -5px black;
+	/* text-align: center; */
+	/* margin: 0 auto 0 auto; */
+	padding: 30px 5% 50px 5%;
+}
+
+@media (min-width: 600px) {
+	.login-form {
+		max-width: 500px;
+	}
+}
+
+.form {
+	height: calc(100vh - 110px);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

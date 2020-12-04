@@ -1,0 +1,32 @@
+.car1 {
+	background-image: url("../assets/960x0.jpg");
+}
+
+.car2 {
+	background-image: url("../assets/9tro-apex-ap-7.jpg");
+}
+
+.car3 {
+	background-image: url("../assets/unnamed.jpg");
+}
+
+.car-main {
+	background-image: url("../assets/2020-lamborghini-huracan-evo-Autocar-6.jpg");
+}
+
+.main-page-image {
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.home-second-section-image {
+	height: 350px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 50px;
+}

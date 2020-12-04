@@ -1,0 +1,97 @@
+.test1 {
+	background-image: url("../assets/img02.jpg");
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.abc {
+	height: 200vh;
+}
+
+.a {
+	margin-bottom: 100px;
+}
+
+.category-container {
+	display: grid;
+	grid-template-columns: auto auto;
+	width: 600px;
+	margin: 0 auto;
+	grid-gap: 30px;
+	padding: 20px;
+
+	/* background-color: gray; */
+}
+
+.category-container > a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* background-image: url("../assets/img02.jpg"); */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	box-shadow: 0px 0px 5px 0px black;
+	width: 265px;
+	height: 175px;
+}
+.category-container > a:hover {
+	text-decoration: none;
+}
+
+.allproduct {
+	background-image: url("../assets/allproducts.jpg");
+}
+
+.addidas {
+	background-image: url("../assets/Adidas.jpg");
+}
+.nike {
+	background-image: url("../assets/nike.jpg");
+}
+.gucci {
+	background-image: url("../assets/gucci.jpg");
+	height: 100px;
+}
+
+.category-name {
+	width: 80%;
+	height: 2.5rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	font-size: 18px;
+	color: black;
+	font-weight: 500;
+	background-color: white;
+	border-radius: 0.2rem;
+	box-shadow: 0 0 5px 0 grey;
+}
+
+.category-name:hover {
+	color: rgba(69, 187, 187, 0.87);
+}
+
+.top {
+	top: -90px;
+}
+
+.bottom {
+	bottom: -90px;
+}
+
+.header {
+	width: 600px;
+	margin: 100px auto 30px auto;
+	text-align: center;
+}
+
+.product-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 20px 0 0 0;
+}
